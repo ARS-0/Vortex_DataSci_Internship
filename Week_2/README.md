@@ -1,4 +1,4 @@
-# Week 2 of VortexTech Data Science & Analytics Internship Track: **Exploratory Data Analysis with Insights**.
+# VortexTech Data Science & Analytics Internship - Week 2: **Exploratory Data Analysis with Insights**.
 
 ## What this is
 
