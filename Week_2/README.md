@@ -1,6 +1,4 @@
-# vortextech-datasci-week2
-
-Week 2 (Beginner–Intermediate) submission for the VortexTech Data Science & Analytics Internship Track: **Exploratory Data Analysis with Insights**.
+# Week 2 of VortexTech Data Science & Analytics Internship Track: **Exploratory Data Analysis with Insights**.
 
 ## What this is
 
