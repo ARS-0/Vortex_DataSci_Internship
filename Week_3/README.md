@@ -1,6 +1,4 @@
-# vortextech-datasci-week3
-
-Week 3 (Intermediate) submission for the VortexTech Data Science & Analytics Internship Track: **Build an Interactive Dashboard**.
+# VortexTech Data Science & Analytics Internship - Week 3: **Build an Interactive Dashboard**.
 
 ## What this is
 
