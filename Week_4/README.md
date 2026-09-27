@@ -1,6 +1,4 @@
-# vortextech-datasci-week4
-
-Week 4 (Advanced/Capstone) submission for the VortexTech Data Science & Analytics Internship Track: **End-to-End Analysis Report**.
+# (Advanced/Capstone) for the VortexTech Data Science & Analytics Internship Track - Week 4 : **End-to-End Analysis Report**.
 
 ## What this is
 
